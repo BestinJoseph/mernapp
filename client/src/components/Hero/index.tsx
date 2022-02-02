@@ -19,6 +19,8 @@ const HeaderContainer = styled.div`
 const Hero = () => {
     return (
         <HeroComponent>
+            <div>hello</div>
+            <div>Well done vasu</div>
         </HeroComponent>
     )
 }
